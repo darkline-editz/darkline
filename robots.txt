@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://darkline-editz.github.io/darkline/sitemap.xml
